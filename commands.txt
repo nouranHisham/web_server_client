@@ -1,0 +1,1 @@
+GET hypertext/WWW/TheProject.html info.cern.ch
